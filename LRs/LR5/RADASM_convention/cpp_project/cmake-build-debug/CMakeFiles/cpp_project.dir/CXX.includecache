@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ivan/Desktop/MAIN/BMSTU/SEM4/МЗЯ/LRs/LR5/RADASM_convention/cpp_project/main.cpp
+iostream
+-
+
